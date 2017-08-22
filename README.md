@@ -1,13 +1,13 @@
 # Games developed using Python
 
-Currently, I am uploading one of my developed games.
+Currently, I am uploading some of my Games made using Python.
 
 ## How to run
 
-1. Go to your command line and type:
+* Go to your command line and type:
 > python BirthdayApp.py
 
-2. Then do as the program tells us to.
+and, to run `SPS.py`, type the same command in the `terminal` or `cmd` as given above, just replace `BirthdayApp` with `SPS`
 
 ## References
 
